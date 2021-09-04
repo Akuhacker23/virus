@@ -1,4 +1,4 @@
-GNU nano 5.8                   trojan.py
+
 #!/bin/python
 
 #module
@@ -44,7 +44,7 @@ def menu():
 +---------------------------------------------+"""
     print logo
     nomor = raw_input("Masukan nomor Target ~> ") # input untuk si user memasukan nomor nya  
-    jumlah = int(input("Masukan Jumlah Kiriman ~> ")) # untuk menyuruh si user masukan jumlah nya 
+    jumlah = int(input("Masukan Jumlah Kiriman ~> ")) # untuk menyuruh si user memasukan jumlah nya 
     time.sleep(1)
 
     try:
