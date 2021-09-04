@@ -1,4 +1,4 @@
-
+GNU nano 5.8                   trojan.py
 #!/bin/python
 
 #module
